@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Emre Hallaç
+# 👋 Hi, I'm Emre Hallac
 
 ### Full Stack Web Developer | Next.js Enthusiast
 
