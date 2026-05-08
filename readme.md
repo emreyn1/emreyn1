@@ -97,7 +97,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![Website](https://img.shields.io/badge/🌐_Website-emrehallac.com-blue?style=for-the-badge)](https://emrehallac.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre_Hallaç-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emrehallacc)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-@emreyn1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emreyn1) -->
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifhallacc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@emrehallac.com)
 
 </div>
 
