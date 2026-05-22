@@ -1,103 +1,97 @@
+# Emre Hallac
+
 <div align="center">
-  
-# 👋 Hi, I'm Emre Hallac
 
-### Full Stack Web Developer | Next.js Enthusiast
+**Full Stack Developer**
 
-[![Website](https://img.shields.io/badge/Website-emrehallac.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emrehallac.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrehallacc)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emreyn1)
+Building scalable web applications with modern technologies.
+
+[![Website](https://img.shields.io/badge/emrehallac.com-000?style=flat-square&logo=safari&logoColor=white)](https://emrehallac.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrehallacc)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@emrehallac.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a passionate **Full Stack Developer** specializing in modern web technologies. I build scalable, performant, and user-friendly web applications using the latest tools and best practices.
+I'm a Full Stack Developer specializing in building performant, user-focused web applications. I work primarily with the JavaScript/TypeScript ecosystem and enjoy contributing to open-source projects.
 
-- 🔭 Currently building projects with **Next.js** and **React**
-- 🌱 Always learning and exploring new technologies
-- 💡 Focused on creating seamless user experiences
-- 🎯 Goal: Contributing to open-source and building impactful products
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Currently:**
+- Building production applications with Next.js, React, and TypeScript
+- Contributing to open-source developer tools
+- Exploring AI/ML integrations in web applications
 
 ---
 
-## 📊 GitHub Stats
+## Open Source Contributions
 
-<div align="center">
-  
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreyn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### [cline/cline](https://github.com/cline/cline)
+> Autonomous coding agent for VS Code — 62k+ stars
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emreyn1&layout=compact&theme=tokyonight&hide_border=true)
+**[PR #10963](https://github.com/cline/cline/pull/10963)** — Retry middleware for SDK providers
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=emreyn1&theme=tokyonight&hide_border=true)
+Added automatic retry with exponential backoff for transient errors (429 rate limits, 5xx server errors, network failures) to the OpenAI-compatible provider.
 
-</div>
+- Implemented `LanguageModelV3Middleware` with configurable retry options
+- Added exponential backoff with jitter to prevent thundering herd
+- Integrated retry-after header parsing for rate-limited APIs
+- Comprehensive unit test coverage
 
----
-
-## 🌟 Featured Projects
-
-### 🤖 [AI Chat Assistant](https://github.com/emreyn1/ai-chat)
-Modern, privacy-first AI chat application with streaming responses and PWA support
-- **Tech:** Next.js 15, React 19, TypeScript, HuggingFace API
-- **Features:** Multiple AI models, conversation management, markdown support, installable PWA
-- **Live Demo:** [ai-chattt.vercel.app](https://ai-chattt.vercel.app)
-
-### 🎬 [Movieon](https://github.com/emreyn1/Movieon)
-Free streaming platform for movies & TV shows with modern UI and user authentication
-- **Tech:** Next.js 15, React 19, TypeScript, Supabase, TMDB API
-- **Features:** Content discovery, user library, video playback, responsive design
-- **Live Demo:** [movieonn.vercel.app](https://movieonn.vercel.app)
+**Status:** Approved — "Production-ready. Ship it!"
 
 ---
 
-## 📝 Latest Blog Posts
+## Technical Skills
 
-<!-- BLOG-POST-LIST:START -->
-Coming soon! I'm planning to share my knowledge and experiences through blog posts.
-<!-- BLOG-POST-LIST:END -->
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, HTML/CSS |
+| **Backend** | Node.js, Express, REST APIs, WebSockets |
+| **Database** | PostgreSQL, MongoDB, Prisma, Supabase |
+| **DevOps** | Git, GitHub Actions, Vercel, Docker |
+| **Tools** | VS Code, Postman, Figma |
 
 ---
 
-## 📫 Let's Connect
+## Projects
 
-I'm always open to interesting conversations and collaboration opportunities!
+### AI Chat Assistant
+Privacy-first AI chat application with streaming responses and PWA support.
+
+- Multiple AI model support via HuggingFace API
+- Real-time streaming with Server-Sent Events
+- Offline-capable Progressive Web App
+- Conversation history and markdown rendering
+
+**Stack:** Next.js 15, React 19, TypeScript, HuggingFace API
+
+[Repository](https://github.com/emreyn1/ai-chat) · [Live Demo](https://ai-chattt.vercel.app)
+
+---
+
+### Movieon
+Full-featured streaming platform for movies and TV shows.
+
+- Content discovery with TMDB API integration
+- User authentication and personal libraries
+- Responsive design for all devices
+- Server-side rendering for SEO
+
+**Stack:** Next.js 15, React 19, TypeScript, Supabase, TMDB API
+
+[Repository](https://github.com/emreyn1/Movieon) · [Live Demo](https://movieonn.vercel.app)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-emrehallac.com-blue?style=for-the-badge)](https://emrehallac.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre_Hallaç-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emrehallacc)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-@emreyn1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emreyn1) -->
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@emrehallac.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreyn1&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emreyn1&layout=compact&theme=default&hide_border=true&hide_title=true)
 
 </div>
 
@@ -105,16 +99,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### 💭 Random Dev Quote
+**Open to opportunities and collaborations.**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎯 Profile Views
-
-![](https://komarev.com/ghpvc/?username=emreyn1&color=blueviolet&style=for-the-badge)
-
----
-
-⭐️ From [emreyn1](https://github.com/emreyn1)
+📫 contact@emrehallac.com
 
 </div>
